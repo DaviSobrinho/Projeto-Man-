@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azul">#373AF1</color>
+    <color name="vermelho">#D13333</color>
+    <color name="verde">#41BD2B</color>
+    <color name="laranja">#D6682C</color>
+    <color name="amarelo">#E4B741</color>
+    <color name="transparente">#00000000</color>
+    <color name="corTema">#FF3700B3</color>
+</resources>
